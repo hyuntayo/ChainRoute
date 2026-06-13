@@ -1,4 +1,3 @@
-
 # ChainRoute: Hyper-Connected Distributed-Edge Network Orchestrator enabling Seamless Multi-Cloud Integration and Intelligent Route Optimization Gateway Implementation
 > Advanced python solution leveraging modern architecture patterns and cutting-edge technology.
 
